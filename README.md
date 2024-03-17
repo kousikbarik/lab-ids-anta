@@ -1,6 +1,6 @@
 # IDS-Anta: An open-source code with defence mechanism to detect adversarial attacks for Intrusion Detection System 
 
-This repository comprises the project's "IDS-Anta: An open-source code with defence mechanism to detect adversarial attacks for Intrusion Detection System ." The code and presented model can be utilized in IDS and anomaly detection against adversarial attack scenarios.
+This repository comprises the project's "IDS-Anta: An open-source code with defence mechanism to detect adversarial attacks for Intrusion Detection System'. The code and presented model can be utilized in IDS and anomaly detection against adversarial attack scenarios.
 
 This repository presented two intrusion detection system scenarios, with and without adversarial attack, that use four ML and DL-based techniques: Random Forest (RF), Support Vector Machine (SVM), Logistic Regression (LR), and Deep Neural Network (DNN). This study uses preprocessing using z-score normalization and feature extraction employing Singular value decomposition (SVD). The Multi-Armed Bandits (MAB) algorithm is used to select the optimum classifier dynamically, and Thomson sampling is used to balance and enhance the prevalent attack detection rate. Further, the proposed IDS-Anta uses Ant Colony Optimization (ACO) to enhance the model's performance.
 
