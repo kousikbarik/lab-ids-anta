@@ -22,3 +22,7 @@ An intrusion detection system (IDS) is critical to protecting the network from c
 •	How can we enhance IDS performance in detecting adversarial attacks with combined methods (i.e., proposed IDS-Anta)?
 
 # A high-level overview of the IDS-Anta code repository 
+
+
+![image](https://github.com/kousikbarik/lab-ids-anta/assets/91803246/c945b6f4-9fa2-4b9d-a809-c296fa89c29d)
+
