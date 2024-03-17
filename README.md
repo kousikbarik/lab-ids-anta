@@ -61,6 +61,20 @@ ZOO-adversarial-samples.ipynb: code for evaluating the IDS classifiers and IDS-A
 
 FGSM-adversarial-samples.ipynb : code for evaluating the IDS classifiers and IDS-Anta with an FGSM adversarial attack scenario with defense mechanism.
 
+# Algorithims
 
+ Random Forest (RF)
+ 
+ Support Vector Machine (SVM)
+ 
+ Logistic Regression (LR)
+ 
+ Deep Neural Network (DNN)
+
+ Singular value decomposition (SVC) 
+
+ Multi-Armed Bandits (MAB)
+
+  Ant Colony Optimization (ACO)
 
 
