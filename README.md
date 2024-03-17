@@ -14,6 +14,10 @@ An intrusion detection system (IDS) is critical to protecting the network from c
 # Research Questions
 
 •	What is the general procedure for ML- and DL-based IDS design, including the significance of preprocessing and feature extraction?
+
 •	How can we use MAB with Thomson Sampling to dynamically choose an effective classifier and balance and enhance the attack detection rate?
+
 •	How can use ZOO and FGSM to generate adversarial attacks?
+
 •	How can we enhance IDS performance in detecting adversarial attacks with combined methods (i.e., proposed IDS-Anta)?
+
