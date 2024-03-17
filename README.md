@@ -80,6 +80,16 @@ FGSM-adversarial-samples.ipynb : code for evaluating the IDS classifiers and IDS
 
 # Additional Readings
 
+Paya, A., Arroni, S., García-Díaz, V., & Gómez, A. (2024). Apollon: A robust defense system against Adversarial Machine Learning attacks in Intrusion Detection Systems. Computers & Security, 136, 103546.
+
+Baniecki, H., & Biecek, P. (2024). Adversarial attacks and defenses in explainable artificial intelligence: A survey. Information Fusion, 102303.
+
+Zhang, A., Ran, Y., Tang, W., & Wang, Y. G. (2024). Vulnerabilities in video quality assessment models: The challenge of adversarial attacks. Advances in Neural Information Processing Systems, 36.
+
+Wei, H., Zhang, K., Zhang, H., & Shi, Y. (2024). Resilient and constrained consensus against adversarial attacks: A distributed MPC framework. Automatica, 160, 111417.
+
+
+
 
 
 
