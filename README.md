@@ -36,3 +36,7 @@ Fig. . A high-level overview of the IDS-Anta code repository
 # Dataset
 
 The CIC-IDS-2017 is a popular publicly available dataset for IDS. (https://www.unb.ca/cic/datasets/ids-2017.html)
+
+The CSE-CIC-IDS2018  is a publicly available dataset for IDS.(https://www.unb.ca/cic/datasets/ids-2018.html)
+
+The CCIC-DDoS2019  is a publicly available dataset for DDoS.(https://www.unb.ca/cic/datasets/ddos-2019.html)
