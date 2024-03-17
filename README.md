@@ -30,7 +30,8 @@ An intrusion detection system (IDS) is critical to protecting the network from c
 
 
 
-![image](https://github.com/kousikbarik/lab-ids-anta/assets/91803246/5593a220-1406-4ab7-9329-603ca4d9b57d)
+![image](https://github.com/kousikbarik/lab-ids-anta/assets/91803246/e0ea284b-ef2b-4c44-ade0-1ca6a48d9d41)
+
 
 
 
