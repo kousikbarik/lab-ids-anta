@@ -92,9 +92,4 @@ Roshan, K., Zafar, A., & Haque, S. B. U. (2024). Untargeted white-box adversaria
 
 
 
-# Contact Details
-
-Please feel free to contact us with any queries or cooperation prospects.
-
-Email: sanjay.misra@ife.no
 
