@@ -43,7 +43,7 @@ Fig. A high-level overview of the IDS-Anta code repository
 Fig. IDS-Anta architecture 
 
 
-# Dataset and Implemenation 
+# Dataset and Implementation
 
 # Dataset
 
@@ -61,7 +61,7 @@ ZOO-adversarial-samples.ipynb: code for evaluating the IDS classifiers and IDS-A
 
 FGSM-adversarial-samples.ipynb : code for evaluating the IDS classifiers and IDS-Anta with an FGSM adversarial attack scenario with defense mechanism.
 
-# Algorithims
+# Algorithms
 
  Random Forest (RF)
  
