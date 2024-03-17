@@ -78,3 +78,14 @@ FGSM-adversarial-samples.ipynb : code for evaluating the IDS classifiers and IDS
   Ant Colony Optimization (ACO)
 
 
+# Additional Readings
+
+
+
+
+# Contact Details
+
+Please feel free to contact us with any queries or cooperation prospects.
+
+Email: sanjay.misra@ife.no
+
