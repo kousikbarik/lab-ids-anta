@@ -88,8 +88,7 @@ Zhang, A., Ran, Y., Tang, W., & Wang, Y. G. (2024). Vulnerabilities in video qua
 
 Wei, H., Zhang, K., Zhang, H., & Shi, Y. (2024). Resilient and constrained consensus against adversarial attacks: A distributed MPC framework. Automatica, 160, 111417.
 
-
-
+Roshan, K., Zafar, A., & Haque, S. B. U. (2024). Untargeted white-box adversarial attack with heuristic defence methods in real-time deep learning based network intrusion detection system. Computer Communications, 218, 97-113.
 
 
 
