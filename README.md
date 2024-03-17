@@ -52,3 +52,9 @@ The CIC-IDS-2017 is a popular publicly available dataset for IDS. (https://www.u
 The CSE-CIC-IDS2018  is a publicly available dataset for IDS.(https://www.unb.ca/cic/datasets/ids-2018.html)
 
 The CCIC-DDoS2019  is a publicly available dataset for DDoS.(https://www.unb.ca/cic/datasets/ddos-2019.html)
+
+# Code
+
+ML-DL-IDS-Anta-without-adversarial.ipynb: code for evaluating IDS with MAB and Thomson sampling without adversarial attack samples. 
+
+
