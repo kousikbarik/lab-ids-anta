@@ -36,6 +36,12 @@ An intrusion detection system (IDS) is critical to protecting the network from c
 
 Fig. . A high-level overview of the IDS-Anta code repository 
 
+
+![image](https://github.com/kousikbarik/lab-ids-anta/assets/91803246/7a3aad05-b4ea-4607-bb6f-183c7479ede0)
+
+Fig. IDS-Anta architecture 
+
+
 # Dataset and Implemenation 
 
 # Dataset
