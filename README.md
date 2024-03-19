@@ -11,6 +11,10 @@ The proposed IDS-Anta with defence mechanism performed better than the selected 
 
 An intrusion detection system (IDS) is critical to protecting the network from cyber threats. Machine Learning (ML) and Deep Learning (DL)- based IDSs are vulnerable to adversarial attacks due to deliberately framed adversarial samples. To address the issue, this study proposes, IDS-Anta is a Python-based open-source code repository with a powerful defence mechanism to identify adversarial attacks without compromising IDS performance. It uses Multi-Armed Bandits with Thomson Sampling, two adversarial attack generation methods, and three public benchmark datasets. This code repository can be readily applied and replicated on IDS datasets to address the adversarial attack issue.
 
+One paper has been published in this project: 
+
+Barik, K., Misra, S., Konar, K., Fernandez-Sanz, L., & Koyuncu, M. (2022). Cybersecurity deep: Approaches, attacks dataset, and comparative study. Applied Artificial Intelligence, 36(1), https://doi.org/10.1080/08839514.2022.2055399.
+
 # Research Questions
 
 •	What is the general procedure for ML- and DL-based IDS design, including the significance of preprocessing and feature extraction?
