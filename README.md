@@ -61,11 +61,11 @@ The CCIC-DDoS2019  is a publicly available dataset for DDoS.(https://www.unb.ca/
 
 # Code
 
-ML-DL-IDS-Anta-without-adversarial.ipynb: code for evaluating IDS with MAB and Thomson sampling without adversarial attack samples. 
+Evaluation-2017.ipynb, Evaluation-2018.ipynb and Evaluation-2019.ipynb: code for evaluating IDS with MAB and Thomson sampling without adversarial attack samples. 
 
-ZOO-adversarial-samples.ipynb: code for evaluating the IDS classifiers and IDS-Anta with a defence mechanism for the ZOO adversarial attack scenario.
+ZOO-adversarial.ipynb: code for evaluating the IDS classifiers and IDS-Anta with a defence mechanism for the ZOO adversarial attack scenario.
 
-FGSM-adversarial-samples.ipynb : code for evaluating the IDS classifiers and IDS-Anta with an FGSM adversarial attack scenario with defense mechanism.
+FGSM-adversarial.ipynb: code for evaluating the IDS classifiers and IDS-Anta with an FGSM adversarial attack scenario with defense mechanism.
 
 # Algorithms
 
