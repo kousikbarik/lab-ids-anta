@@ -1,14 +1,14 @@
-# IDS-Anta: An open-source code with defence mechanism to detect adversarial attacks for Intrusion Detection System 
+# IDS-Anta: An open-source code with defence mechanism to detect adversarial attacks for the Intrusion Detection System 
 
 This repository comprises the project's "IDS-Anta: An open-source code with defence mechanism to detect adversarial attacks for Intrusion Detection System'. The code and presented model can be utilized in IDS and anomaly detection against adversarial attack scenarios.
 
 This repository presented two intrusion detection system scenarios, with and without adversarial attack, that use four ML and DL-based techniques: Random Forest (RF), Support Vector Machine (SVM), Logistic Regression (LR), and Deep Neural Network (DNN). This study uses preprocessing using z-score normalization and feature extraction employing Singular value decomposition (SVD). The Multi-Armed Bandits (MAB) algorithm is used to select the optimum classifier dynamically, and Thomson sampling is employed to balance and enhance the prevalent attack detection rate. Further, the proposed IDS-Anta uses Ant Colony Optimization (ACO) to enhance the model's performance.
 
-This study uses two adversarial attack methods to generate advertised samples: Zeroth Order Optimization (ZOO) and Fast Gradient Sign Attack (FGSM). The study analyzes six evaluation parameters: Accuracy, Detection Rate, Precision, Recall, F-1, and AUC. The proposed model and selected classifiers are tested without adversarial attacks using three benchmark datasets: CIC-IDS-2017, CEC-CIC-IDS-2018, and CIC-DDoS-2019. The outcomes exhibit that all the classifiers performed well without adversarial attacks. 
+This study uses two adversarial attack methods to generate advertised samples: Zeroth Order Optimization (ZOO) and Fast Gradient Sign Attack (FGSM). The study analyzes six evaluation parameters: Accuracy, Detection Rate, Precision, Recall, F-1, and AUC score. The proposed model and selected classifiers are tested without adversarial attacks using three benchmark datasets: CIC-IDS-2017, CEC-CIC-IDS-2018, and CIC-DDoS-2019. The outcomes exhibit that all the classifiers performed well without adversarial attacks. 
 
 The proposed IDS-Anta with defence mechanism performed better than the selected four classifiers in this study against both adversarial attack scenarios, i.e., ZOO and FGSM. This outcome signifies that both ML- and DL-based classifiers are suspectable to adversarial attacks.
 
-Two papers has been published in this project: 
+Two papers have been published in this project: 
 
 Barik, K., Misra, S., Konar, K., Fernandez-Sanz, L., & Koyuncu, M. (2022). Cybersecurity deep: Approaches, attacks dataset, and comparative study. Applied Artificial Intelligence, 36(1), https://doi.org/10.1080/08839514.2022.2055399.
 
